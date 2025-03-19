@@ -17,6 +17,7 @@ cd data-analyst-agent
 Install Dependencies
  
 pip install -r requirements.txt
+And in the code you have to add you gemini api key to use gemini.
 
 Run the Application
 
